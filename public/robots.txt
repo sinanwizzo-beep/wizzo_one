@@ -1,0 +1,6 @@
+# Robots.txt for Wizzo.One
+User-agent: *
+Allow: /
+
+# Sitemap Location
+Sitemap: https://wizzo.one/sitemap.xml
